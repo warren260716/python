@@ -1,2 +1,1 @@
-def sub(a, b):
-    return a - b
+print(hex(int(12.3)))
